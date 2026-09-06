@@ -1,23 +1,21 @@
 # Exercícios de Python
 
-Repositório com exercícios e projetos desenvolvidos durante meus estudos de Python e Engenharia da Computação.
+Este repositório reúne os exercícios desenvolvidos durante o primeiro semestre de Engenharia da Computação, principalmente nas aulas de Algoritmos e Programação.
 
-## Estrutura
+O objetivo é registrar minha evolução no desenvolvimento da lógica de programação e no aprendizado de Python ao longo do semestre.
 
-### Fundamentos
-Exercícios de lógica de programação e fundamentos da linguagem Python.
+Os exercícios estão organizados por aula e abordam progressivamente conceitos como:
 
-- Ano bissexto
-- Desconto em e-commerce
-- Identificação de triângulos
-- Média de boletim escolar
+- Lógica de programação
+- Variáveis e tipos de dados
+- Operadores
+- Estruturas condicionais
+- Operadores booleanos
+- Estruturas de repetição
+- Funções
+- Listas e outras estruturas de dados
+- Resolução de problemas com Python
 
-### Projetos
-Projetos maiores desenvolvidos ao longo dos estudos.
+Além dos conceitos de programação, este repositório também faz parte da minha prática com Git e GitHub para versionamento e organização de código.
 
-## Tecnologias
-
-- Python
-- Git
-- GitHub
-
+O conteúdo será atualizado conforme avanço nas aulas e desenvolvo novos exercícios.
